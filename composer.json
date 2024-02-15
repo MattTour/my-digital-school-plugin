@@ -1,5 +1,5 @@
 {
-    "name": "matt/my-digital-school-plugin",
+    "name": "matttour/my-digital-school-plugin",
     "autoload": {
         "psr-4": {
             "Matt\\MyDigitalSchoolPlugin\\": "src/"
